@@ -1,5 +1,5 @@
-# Java
-Java ~ Multi-threaded Sort Comparison
+# Java - Multi-threaded Sort Comparison
+## Author: Jason A. Young
 
 This program executes four different types of sorts routines and then analyzes the effect of threshold and thread count on the performance.
 
